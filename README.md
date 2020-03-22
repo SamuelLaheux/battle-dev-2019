@@ -4,6 +4,12 @@ https://www.isograd.com/FR/solutionconcours.php
 
 ## Exercise 1
 
+### Code to run to solve exercise 1
+
+```python
+python3 ex1_short_straw.py
+```
+
 ### Exercise statement
 
 #### Objective
@@ -40,14 +46,14 @@ first name of a participant and the length of his piece of wood in centimeters.
 ##### Output
 The first name of the person who will sleep without a tent.
 
-### Code to run to solve exercise 1
-
-```python
-python3 ex1_short_straw.py
-```
-
 
 ## Exercise 2
+
+### Code to run to solve exercise 2
+
+```python
+python3 ex2_wooden_frame.py
+```
 
 ### Exercise statement
 
@@ -64,15 +70,15 @@ order to build the largest square frame possible.
 
 Note that when you cut a board, you keep the part you are interested in and you throw
 the second part into the box, you can no longer use it for this frame.
-The objective is to determine how many centimetres you need to throw back into the
+The objective is to determine how many centimeters you need to throw back into the
 box if you build the largest square frame possible.
 
 #### Data format
 
 ##### Input
 Rows 1 to 4: an integer between 10 and 1,000 representing to the length of a wooden
-plank expressed in centimetres.
+plank expressed in centimeters.
 
 ##### Output
-An integer representing the number of centimetres of wood you throw into the
+An integer representing the number of centimeters of wood you throw into the
 cardboard if you build the largest square frame possible.
